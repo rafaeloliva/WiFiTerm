@@ -1,8 +1,8 @@
 html,body,#terminal{height:100%;width:100%;margin:0;padding:0;min-width:300px;}
 
 #terminal {
-    background-color: rgb(240, 240, 240);
-    color: black;
+    background-color: rgb(48, 48, 48);
+    color: white;
     font-family: "Courier New";
 }
 

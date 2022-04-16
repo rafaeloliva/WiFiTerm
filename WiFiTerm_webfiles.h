@@ -5,7 +5,7 @@
 //     size : 2954 bytes
 //     content_type : image/vnd.microsoft.icon
 //  /term.html
-//     size : 1160 bytes
+//     size : 1210 bytes
 //     content_type : text/html
 //  /icons/greenArrow.png
 //     size : 413 bytes
@@ -14,7 +14,7 @@
 //     size : 406 bytes
 //     content_type : image/png
 //  /scripts/term.js
-//     size : 3508 bytes
+//     size : 3512 bytes
 //     content_type : application/javascript
 //  /styles/term.css
 //     size : 1169 bytes
